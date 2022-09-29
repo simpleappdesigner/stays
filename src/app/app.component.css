@@ -1,0 +1,18 @@
+.owl-nav button {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+}
+
+.owl-prev {
+    right: -25px;
+}
+
+.owl-next {
+    left: -25px;
+}
+
+.owl-nav button i {
+    font-size: 25px;
+    text-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
